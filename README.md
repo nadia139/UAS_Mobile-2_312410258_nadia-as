@@ -56,12 +56,16 @@ Kontribusi Komunitas
 ![Notifikaasi](https://github.com/user-attachments/assets/9db53eac-f905-4f6b-a446-999618436c88)
 
 
-
-<img width="1920" height="1080" alt="Storyboard" src="https://github.com/user-attachments/assets/0c56db12-dfdb-4a5a-b1c0-eb605c83fc72" />
-
+<img width="466" height="418" alt="image" src="https://github.com/user-attachments/assets/1d180517-9469-4356-9937-21827692d5de" />
 
 
-<img width="466" height="418" alt="image" src="https://github.com/user-attachments/assets/3a4b916d-db0e-4d0c-8c6f-4ccb4419033a" />
+
+<img width="593" height="197" alt="image" src="https://github.com/user-attachments/assets/bb88ded8-bec1-41dd-bbf9-835e71f50b24" />
+
+
+
+
+<img width="590" height="196" alt="image" src="https://github.com/user-attachments/assets/8b93ff2d-97cb-4060-8ce2-39b260b6a03c" />
 
 
 
@@ -69,7 +73,14 @@ Kontribusi Komunitas
 
 # Menambahkan Fitur AI
 
-<img width="480" height="808" alt="image" src="https://github.com/user-attachments/assets/92bd6a14-5978-49e1-ae94-869d48cd6e69" />
+<img width="155" height="319" alt="image" src="https://github.com/user-attachments/assets/bd0aee56-d250-4592-ac84-c10c1fdf8bcc" />
+
+
+
+# Demo Aplikasi 
+
+https://drive.google.com/file/d/1wizLb1LUVojn85zCCyZTFzRxHgr551Bv/view?usp=sharing
+
 
 
 
