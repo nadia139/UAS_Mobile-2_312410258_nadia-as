@@ -61,11 +61,8 @@ Kontribusi Komunitas
 
 
 
-<img width="1920" height="1080" alt="Mockups" src="https://github.com/user-attachments/assets/4bebf6b7-c39c-45e4-b414-2a1cc248eee0" />
+<img width="466" height="418" alt="image" src="https://github.com/user-attachments/assets/3a4b916d-db0e-4d0c-8c6f-4ccb4419033a" />
 
-
-
-<img width="1920" height="1080" alt="UI design" src="https://github.com/user-attachments/assets/e2c19891-0070-42cf-a08c-8df49fb7dff6" />
 
 
 
